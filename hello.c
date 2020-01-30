@@ -5,9 +5,7 @@
 	#define DOCKER_IMAGE "guyturgeon/hello-world"
 #endif
 
-#ifndef DOCKER_GREETING
-	#define DOCKER_GREETING "Hello Guy from Docker!"
-#endif
+#define DOCKER_GREETING "Hello Guy from Docker!"
 
 #ifndef DOCKER_ARCH
 	#define DOCKER_ARCH "amd64"
