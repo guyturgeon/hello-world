@@ -1,5 +1,5 @@
 
-Hello from Docker!
+Hello Guy Turgeon from Docker!
 This message shows that your installation appears to be working correctly.
 
 To generate this message, Docker took the following steps:
